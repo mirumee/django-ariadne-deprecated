@@ -1,0 +1,11 @@
+ariadne
+django
+
+pytest
+pytest-django
+pytest-mock
+pylint
+mypy
+black
+
+pip-tools
