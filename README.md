@@ -1,5 +1,9 @@
 ![Ariadne](https://ariadne.readthedocs.io/en/latest/_images/logo.png)
 
+[![Documentation](https://readthedocs.org/projects/django-ariadne/badge/?version=latest)](https://django-ariadne.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/mirumee/django-ariadne.svg?branch=master)](https://travis-ci.org/mirumee/django-ariadne)
+[![Codecov](https://codecov.io/gh/mirumee/django-ariadne/branch/master/graph/badge.svg)](https://codecov.io/gh/mirumee/django-ariadne)
+
 - - - - -
 
 # Django Ariadne
